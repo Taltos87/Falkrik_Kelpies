@@ -1,5 +1,6 @@
 html body {
-    margin: 0;
+    display: block;
+    margin: 40px;
     font-family: "Open Sans", sans-serif;
     line-height: 1.25;
     color: rgb(41, 221, 205);
