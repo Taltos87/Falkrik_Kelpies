@@ -26,7 +26,6 @@ p {
   grid-template-columns:repeat(3, 1fr);
   grid-gap: 10px;
   margin: 20px;
-  
 }
 .gallery-img {
   display: flex;
