@@ -15,10 +15,10 @@ h1 {
 h2 {
   text-align: left;
     color: red;
+    padding: bottom 20px;
 }
 p {
-  text-align:text-underline-offset: 20px; 
-  text-justify: inter-cluster;
+  text-align:unset; text-justify: inter-cluster;
   columns: unset;
   
     
